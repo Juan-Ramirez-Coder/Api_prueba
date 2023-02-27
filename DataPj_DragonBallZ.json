@@ -1,0 +1,304 @@
+    {
+        "id": "goku",
+        "name": "Goku",
+        "race": "Saiyan",
+        "gender": "Male",
+        "bio": "Goku, o Kakarotto, es un Saiyajin masculino y el protagonista principal de la serie Dragon Ball. Goku es un Saiyan enviado originalmente a la Tierra cuando era un bebé con la misión de destruir a su gente. Sin embargo, un accidente altera su memoria, lo que le permite crecer y convertirse en el mayor defensor de la Tierra y el líder informal del Equipo Dragón. Se esfuerza y ​​entrena constantemente para ser el mejor guerrero posible, lo que ha mantenido a la Tierra y al universo a salvo de la destrucción muchas veces.",
+        "health": "500,000",
+        "attack": "50,000",
+        "defense": "50,000",
+        "abilities": [
+            "Super Saiyan Transformations",
+            "Super Kamehameha",
+            "Super Dragon Fist"
+        ],
+        "img": "https://depor.com/resizer/CxZaC40fE4MwWFAlx8uGbQ9lFKI=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/6Y2EDIISGFGVFANEVDCR5LCG34.jpg"
+    },
+    {
+        "id": "vegeta",
+        "name": "Vegeta",
+        "race": "Saiyan",
+        "gender": "Male",
+        "bio": "Vegeta es el Príncipe de una raza extraterrestre de guerreros conocidos como los Saiyajin, al igual que el protagonista de la serie, Goku. Vegeta es extremadamente vanidoso y orgulloso, refiriéndose constantemente a su herencia a lo largo de la serie. Él cree que debería ser considerado como el luchador más fuerte del Universo y se obsesiona con superar a Goku después de luchar contra él. Después de su derrota ante Goku y los guerreros Z, Vegeta se une a regañadientes con los héroes para frustrar amenazas mayores al universo.",
+        "health": "490,000",
+        "attack": "49,000",
+        "defense": "49,000",
+        "abilities": [
+            "Super Saiyan Transformations",
+            "Final Flash",
+            "Big Bang Attack"
+        ],
+        "img": "https://depor.com/resizer/F05txG9oGASjBdbVAIaFHaCprJ4=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/4HFH2SWZ35E3BE6VXIRA6X2EZA.jpg"
+    },
+    {
+        "id": "gohan",
+        "name": "Gohan",
+        "race": "Human/Saiyan",
+        "gender": "Male",
+        "bio": "Gohan se presenta como el primer hijo del protagonista Goku y su esposa Chi-Chi, en el capítulo # 196 Kakarotto, publicado por primera vez en la revista Weekly Shōnen Jump el 8 de octubre de 1988. Chi-Chi es una madre estricta y protectora para Gohan. obligándolo a concentrarse en sus estudios y prohibiéndole practicar artes marciales. Sin embargo, debido a las diversas amenazas a la Tierra, ella le permite pelear a regañadientes, y finalmente se convierte en uno de los personajes más fuertes de la serie.",
+        "health": "440,000",
+        "attack": "38,000",
+        "defense": "38,000",
+        "abilities": [
+            "Super Saiyan Transformations",
+            "Super Kamehameha",
+            "Masenko"
+        ],
+        "img": "https://depor.com/resizer/sJU1zqUZW-LBv2BwO7uafztP4do=/1200x900/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/GW3VPKAEXRBHJFHRWK56HQBCKE.jpg"
+    },
+    {
+        "id": "trunks",
+        "name": "Trunks",
+        "race": "Human/Saiyan",
+        "gender": "Male",
+        "bio": "Trunks tiene el cabello color lavanda de su abuelo (azul en el manga) y los ojos azules de su madre. Tiene la forma de los ojos, los rasgos faciales y la piel bronceada de su padre, y su cabello se vuelve rubio y los ojos se vuelven verdes (sin pupilas) cuando se convierte en Super Saiyan. Varios personajes, como Goku, Krillin y Bulma, comentan lo mucho que Trunks se parece a Vegeta. Para la mayoría de Buu Saga, Present Trunks usa un gi verde oscuro, un cinturón naranja, muñequeras naranjas y unas botas doradas.",
+        "health": "470,000",
+        "attack": "44,000",
+        "defense": "43,000",
+        "abilities": [
+            "Super Saiyan Transformations",
+            "Galic Gun",
+            "Finish Buster"
+        ],
+        "img": "https://depor.com/resizer/gmjjVVAVhzeI9-pWeyPnyuTegNo=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/7MGULGJ2FFBC3PQJ6NYNQG25HA.jpg"
+    },
+    {
+        "id": "Frezzer",
+        "name": "Frieza",
+        "race": "Unknown",
+        "gender": "Male",
+        "bio": "Frieza,hace su debut en el Capítulo 247: Nubes oscuras se arremolinan sobre el planeta Namek, publicado por primera vez en la revista Weekly Shōnen Jump el 6 de octubre de 1989, como un tirano galáctico temido como el ser más poderoso del universo. A pesar de no aparecer hasta la segunda mitad del manga, se considera que Frieza es el antagonista más icónico de la franquicia Dragon Ball debido a que efectivamente sirvió como catalizador de muchos de los eventos descritos en la historia.",
+        "health": "475,000",
+        "attack": "47,000",
+        "defense": "47,000",
+        "abilities": [
+            "Eye Laser",
+            "Death Beam",
+            "Death Ball"
+        ],
+        "img": "https://depor.com/resizer/WlwUFydbOgj6upQeINEpY7eg7kk=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/EIX3L5DYSRFBNAOYHRDAMU6IEI.jpg"
+    },
+    {
+        "id": "cell",
+        "name": "Cell",
+        "race": "Android",
+        "gender": "Male",
+        "bio": "Cell es la última creación del Dr. Gero, quien vino de una línea de tiempo futura, diseñada para poseer todas las habilidades de los mejores luchadores que jamás habitaron o visitaron la Tierra; el resultado fue un guerrero perfecto, que poseía numerosos rasgos genéticos favorables y habilidades especiales. Fue uno de los pocos Androides Listón Rojo que no completó directamente el Dr. Gero; fue completado por la supercomputadora del Dr. Gero. Es el principal antagonista de las sagas Imperfect Cell, Perfect Cell y Cell Games.",
+        "health": "200,000",
+        "attack": "20,000",
+        "defense": "20,000",
+        "abilities": [
+            "Energy Shield",
+            "Super Kamehameha",
+            "Destructo Disk"
+        ],
+        "img": "https://depor.com/resizer/EkdERO36Wj8BqMsc67Kd20z2f0U=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/NRFDECK2RBDCTKHGOOT5XJQEDI.jpg"
+    },
+    {
+        "id": "beerus",
+        "name": "Beerus",
+        "race": "God",
+        "gender": "Male",
+        "bio": "Beerus, el Dios de la Destrucción. Beerus hizo su primera aparición en el largometraje de 2013 Dragon Ball Z: Battle of Gods como el antagonista principal y regresó como personaje secundario en Dragon Ball Z: Resurrection 'F', así como uno de los personajes principales en Dragon Ball Super. Es un dios parecido a un gato esfinge púrpura que se ve con ropa y adornos egipcios tradicionales, cuya ocupación es mantener el equilibrio destruyendo planetas, en contraste con el Kaiō-shin que los crea y los preserva.",
+        "health": "600,000",
+        "attack": "60,000",
+        "defense": "60,000",
+        "abilities": [
+            "Destruction Sphere",
+            "Destruction Gods, Fierce Attack",
+            "Hakai"
+        ],
+        "img": "https://depor.com/resizer/-x3wyBH9ecaRp6vxCenN3_lKelk=/1200x900/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/25RLGYOEGNED5HQGGU5BQDC6H4.jpg"
+    },
+    {
+        "id": "piccolo",
+        "name": "Piccolo",
+        "race": "Namekian",
+        "gender": "Male",
+        "bio": "Piccolo Jr, es un namekiano y también el hijo final y la reencarnación del Rey Demonio Piccolo, y luego se convirtió en la reunificación del Namekian sin nombre después de fusionarse con Kami. Según Grand Elder Guru, Piccolo, junto con Kami y King Piccolo, son parte del Clan Dragón, quienes fueron los creadores originales de Dragon Balls. Un guerrero sabio y astuto que originalmente era un enemigo despiadado de Goku, Piccolo luego se convierte en un miembro permanente del Equipo Dragón.",
+        "health": "230,000",
+        "attack": "25,000",
+        "defense": "25,000",
+        "abilities": [
+            "Special Beam Cannon",
+            "Tri-Form",
+            "Light Grenade"
+        ],
+        "img": "https://depor.com/resizer/v70Csy2gynbr4sx0QH8hMzALr7k=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/ZZMS64RWORCZVMYN3GLCO25JLE.jpg"
+    },
+    {
+        "id": "gotenks",
+        "name": "Gotenks",
+        "race": "Human/Saiyan",
+        "gender": "Male",
+        "bio": "Gotenks, anteriormente conocido como Trunkten, es el resultado inmensamente poderoso de Trunks y Goten usando con éxito Fusion Dance, y el primer personaje exitoso de Fusion Dance que se ve en la serie Dragon Ball. Le gusta llamarse a sí mismo, El héroe de la justicia o Grim Reaper of Justice.",
+        "health": "320,000",
+        "attack": "35,000",
+        "defense": "35,000",
+        "abilities": [
+            "Super Saiyan Transformations",
+            "Galactic Donut",
+            "Super Ghost Kamikaze Attack"
+        ],
+        "img": "https://depor.com/resizer/Mpq_UCt7i9Jw0OirRMLE-ZJi6Os=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/5LMNR52VJJBBNBKNU2MJOTBDYI.jpg"
+    },
+    {
+        "id": "hit",
+        "name": "Hit",
+        "race": "Unknown",
+        "gender": "Male",
+        "bio": "Hit, conocido como Never-Miss Hit y como Legendary Hitman, es el asesino legendario del Universo 6. Además, más tarde se convierte en el líder del Equipo Universo 6. Hit muestra poca emoción, le gusta desafiarse a sí mismo y es honorable.",
+        "health": "460,000",
+        "attack": "46,000",
+        "defense": "46,000",
+        "abilities": [
+            "Time Skip",
+            "Death Blow",
+            "Vital Point Attack"
+        ],
+        "img": "https://depor.com/resizer/n1bPoGL01_tZwL9QjPpcNUjIJ9g=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/I34FSUWYBFAIRDWZ2J6ILSJNOA.jpg"
+    },
+    {
+        "id": "krillin",
+        "name": "Krillin",
+        "race": "Human",
+        "gender": "Male",
+        "bio": "Krillin, es un protagonista secundario en el manga Dragon Ball y en las series de anime Dragon Ball, Dragon Ball Z, Dragon Ball GT y Dragon Ball Super. Krillin tuvo una breve rivalidad con Goku cuando se conocieron y entrenaron por primera vez con el Maestro Roshi, pero rápidamente se convirtieron en los mejores amigos de toda la vida. Krillin, uno de los artistas marciales más poderosos y talentosos de la Tierra, es valiente, un aliado fiel y bondadoso.",
+        "health": "180,000",
+        "attack": "20,000",
+        "defense": "20,000",
+        "abilities": [
+            "Kamehameha Wave",
+            "Destrcuto Disk",
+            "Solar Flare"
+        ],
+        "img": "https://depor.com/resizer/-_3IymAtgOKcXvgLiHN0oUa7RIE=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/ZILKBBVBFRBZHHDOYFKNXQG3DU.jpg"
+    },
+    {
+        "id": "jiren",
+        "name": "Jiren",
+        "race": "Unknown",
+        "gender": "Male",
+        "bio": "Jiren, también conocido como Jiren The Gray, es un miembro de Pride Troopers que participó en el Torneo de Poder con el propósito de obtener un deseo de las Super Dragon Balls. Jiren es un luchador tranquilo y honorable, que cree en la fuerza y la justicia.",
+        "health": "740,000",
+        "attack": "74,000",
+        "defense": "74,000",
+        "abilities": [
+            "Invisisble Eye Blast",
+            "Energy Barrier",
+            "Overheat Magnetron"
+        ],
+        "img": "https://depor.com/resizer/YtFFh4rkKUwilrzQ6CEV6kc6im4=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/FVBQD4LBGJD3XE33WCIAGGZHO4.jpg"
+    },
+    {
+        "id": "tien",
+        "name": "Tien",
+        "race": "Human",
+        "gender": "Male",
+        "bio": "Tien Shinhan es un artista marcial disciplinado, solitario y muy devoto, y uno de los terrícolas más fuertes dentro del universo de Dragon Ball. También posee algunos rasgos no humanos debido a que desciende de la Gente de los Tres Ojos. Originalmente era un estudiante de la Escuela Crane que deseaba vengarse de Goku por derrotar a su mentor, el Mercenario Tao, pero se dio cuenta de que estaba del lado equivocado con la ayuda del Maestro Roshi. Lucha junto a los otros Z Fighters cuando surgen grandes amenazas a la Tierra.",
+        "health": "170,000",
+        "attack": "18,000",
+        "defense": "18,000",
+        "abilities": [
+            "Tri Beam",
+            "Solar Flare",
+            "Tri-Form"
+        ],
+        "img": "https://depor.com/resizer/IWyFlQsHi7b6qG4U3ZU-OhXR8ms=/1200x800/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KSUL3XHZMBFBRKETUYEPSC35UI.jpg"
+    },
+    {
+        "id": "android 17",
+        "name": "Android 17",
+        "race": "Android",
+        "gender": "Male",
+        "bio": "Androide 17,es el hermano gemelo de Androide 18 y la decimoséptima creación androide del Dr. Gero, diseñada para servir a la vendetta de Gero contra Goku. A pesar de que sus intereses inicialmente no se desvían de esta expectativa, Androide 17 se encarga de matar al Dr. Gero, quien no coopera con la curiosidad de Androide 18 en activar a Androide 16 y es considerado inferior por Androide 17.",
+        "health": "440,000",
+        "attack": "43,000",
+        "defense": "42,000",
+        "abilities": [
+            "Super Saiyan Transformations",
+            "Super Kamehameha",
+            "Super Dragon Fist"
+        ],
+        "img": "https://depor.com/resizer/OORiPdvcpiEzXwT7h9dtoHPnmoo=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/32FTVL76WZG6TJ3DMYUSQQYNZI.jpg"
+    },
+    {
+        "id": "android 18",
+        "name": "Android 18",
+        "race": "Android",
+        "gender": "Female",
+        "bio": "Androide 18,es la hermana gemela de Androide 17 y la decimoctava creación androide del Dr. Gero, diseñada para servir a la vendetta de Gero contra Goku. Si bien sus intereses inicialmente no se desvían de esta expectativa, su curiosidad por activar Android 16, a pesar de las órdenes de Gero de no hacerlo, lleva a Android 17 a encargarse de asesinar a Gero. Eventualmente, Android 18 se convierte en miembro de los Z Fighters, así como en la esposa de Krillin y la madre de su hija Marron.",
+        "health": "420,000",
+        "attack": "40,000",
+        "defense": "40,000",
+        "abilities": [
+            "Android Barrier",
+            "Full Power Energy Ball",
+            "Power Blitz"
+        ],
+        "img": "https://cloudfront-us-east-1.images.arcpublishing.com/elcomercio/6NP5XIMXRJDVVAYNXFCN5B65BA.jpg"
+    },
+    {
+        "id": "broly",
+        "name": "Broly",
+        "race": "Saiyan",
+        "gender": "Male",
+        "bio": "Broly, es el último de los Super Saiyajin Legendarios que aparece cada mil años. Su padre es Paragus. Broly es un Saiyajin de piel clara con ojos oscuros y cabello negro puntiagudo que le llega a la mitad de la espalda con flequillo corto que enmarca su frente. Cuando era niño, vestía una túnica negra de una correa con pantalones grises y botas marrones, junto con un cinturón de cuerda y pulseras. Como adulto, Broly es muy alto con una estructura delgada pero bien construida.",
+        "health": "800,000",
+        "attack": "80,000",
+        "defense": "80,000",
+        "abilities": [
+            "Super Saiyan Transformations",
+            "Eraser Cannon",
+            "Gigantic Slam"
+        ],
+        "img": "https://cloudfront-us-east-1.images.arcpublishing.com/elcomercio/G4X2UZLXYBFJPDF3UO77T74DEA.jpg"
+    },
+    {
+        "id": "vegito",
+        "name": "Vegito",
+        "race": "Saiyan",
+        "gender": "Male",
+        "bio": "Vegito,es el resultado inmensamente poderoso de la fusión entre Goku y Vegeta mediante el uso de los Pendientes Potara. Vegito es el personaje más poderoso del manga Dragon Ball. Su contraparte de Fusion Dance es Gogeta. Vegito es una mezcla de las características de Goku y Vegeta, con algunas desviaciones. Tiene el mismo tipo de cuerpo que Goku, mientras que su color de cabello es marrón oscuro a marrón rojizo. Tiene la mandíbula más suave de Goku y los ojos más agudos de Vegeta.",
+        "health": "780,000",
+        "attack": "70,000",
+        "defense": "60,000",
+        "abilities": [
+            "Super Saiyan Transformations",
+            "Final Kamehameha",
+            "Beam Sword Slash"
+        ],
+        "img": "https://depor.com/resizer/PswaQaFXPo9ylSO00m0x5sbOL3k=/1200x900/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/NHWXOZZR4RHL3P2J3IKMHRLXUE.jpg"
+    },
+    {
+        "id": "gogeta",
+        "name": "Gogeta",
+        "race": "Saiyan",
+        "gender": "Male",
+        "bio": "Gogeta es la fusión resultante de dos Saiyajin muy poderosos, Goku y Vegeta, cuando realizan correctamente la Danza de la Fusión. Su voz es una voz dual que contiene las voces de Goku y Vegeta. Gogeta es famoso por su asombroso poder y velocidad, y es considerado uno de los personajes más poderosos de las series Dragon Ball Z y Dragon Ball GT. Su contraparte de Potara Fusion es Vegito. Gogeta usa la misma ropa que usan todas las creaciones de Fusion Dance.",
+        "health": "700,000",
+        "attack": "60,000",
+        "defense": "55,000",
+        "abilities": [
+            "Super Saiyan Transformations",
+            "Big Bang Kamehameha",
+            "Stardust Breaker"
+        ],
+        "img": "https://cloudfront-us-east-1.images.arcpublishing.com/elcomercio/6XV6AMMUSJC5TAKPPFWDCHN6AI.jpg"
+    },
+    {
+        "id": "goku black",
+        "name": "Goku Black",
+        "race": "Saiyan",
+        "gender": "Male",
+        "bio": "Goku Black,es el principal antagonista de Future Trunks Saga de Dragon Ball Super. Su verdadera identidad es el presente original Zamasu, un ex aprendiz de Kai del Norte y Kai Supremo que sirve al Kai Supremo del Universo 10, Gowasu, de la línea de tiempo principal inalterada, en la que robó el cuerpo del Goku presente original y trató de destruir a todos los mortales. junto a Futuro Zamasu. Future Bulma le dio el nombre de Goku Black cuando inicialmente se refirió a sí mismo como Son Goku.",
+        "health": "480,000",
+        "attack": "480,000",
+        "defense": "48,000",
+        "abilities": [
+            "Super Saiyan Transformations",
+            "Black Kamehameha",
+            "God Slicer"
+        ],
+        "img": "https://depor.com/resizer/njHZ5HGlKPBOB25bQ3IInZJcTd8=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/BI5ZH47I6JHGREPCQWR67JGW54.jpg"
+    }
