@@ -3,14 +3,15 @@
         "name": "Goku",
         "race": "Saiyan",
         "gender": "Male",
-        "bio": "Goku, o Kakarotto, es un Saiyajin masculino y el protagonista principal de la serie Dragon Ball.",
+        "bio": "Goku, born Kakarot, is a nfant with the mission to destroy its people. ",
         "health": "500,000",
         "attack": "50,000",
         "defense": "50,000",
+        "kiRestoreSpeed": "50,000",
         "abilities": [
             "Super Saiyan Transformations",
             "Super Kamehameha",
             "Super Dragon Fist"
         ],
-        "img": "https://static.wikia.nocookie.net/multiversologia/images/0/08/Goku.jpg/revision/latest/scale-to-width-down/370?cb=20180609213133&path-prefix=pt-br"
+        "img": "https://depor.com/resizer/CxZaC40fE4MwWFAlx8uGbQ9lFKI=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/6Y2EDIISGFGVFANEVDCR5LCG34.jpg"
     }
