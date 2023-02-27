@@ -3,7 +3,7 @@
         "name": "Goku",
         "race": "Saiyan",
         "gender": "Male",
-        "bio": "Goku, o Kakarotto, es un Saiyajin masculino y el protagonista principal de la serie Dragon Ball. Goku es un Saiyan enviado originalmente a la Tierra cuando era un bebé con la misión de destruir a su gente. Sin embargo, un accidente altera su memoria, lo que le permite crecer y convertirse en el mayor defensor de la Tierra y el líder informal del Equipo Dragón. Se esfuerza y entrena constantemente para ser el mejor guerrero posible, lo que ha mantenido a la Tierra y al universo a salvo de la destrucción muchas veces.",
+        "bio": "Goku, o Kakarotto, es un Saiyajin masculino y el protagonista principal de la serie Dragon Ball.",
         "health": "500,000",
         "attack": "50,000",
         "defense": "50,000",
